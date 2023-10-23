@@ -1,1 +1,45 @@
-## Project 6: Tumblr Detail Starter
+# Project 6 - *Tumblr Part 2*
+
+Submitted by: **Vyshnavi Nalla**
+
+**Name of your app** is an app that shows posts from the Humans of NYC tumblr.
+
+Time spent: **2** hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [X] Setup navigation to the Detail Screen
+- [X] Created the Detail View UI
+- [X] Add the ability to pass data to the Detail View Controller
+- [X] Made personal finishing touches to the UI
+
+
+The following **additional** features are implemented:
+
+- [X] List anything else that you can get done to improve the app functionality (added titles for each page)
+
+## Video Walkthrough
+![Kapture 2023-10-23 at 13 36 02](https://github.com/vaishunall/tumblr-pt2/assets/72366072/ab8efc1b-13ef-41f2-ab65-67e6c7610f99)
+
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [yyyy] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
